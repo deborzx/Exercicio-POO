@@ -34,6 +34,12 @@ namespace POO
             jogo.nome = "DEAD BY DAYLIGHT";
             jogo.Game();
 
+            Console.WriteLine("---------------------------------------");
+
+            Restaurante restaurante = new Restaurante();
+            restaurante.pedido = "Lasanha";
+            restaurante.preco = 19.00m;
+            restaurante.PedidoFeito();
 
 
 

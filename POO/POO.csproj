@@ -46,6 +46,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Filme.cs" />
     <Compile Include="Jogo.cs" />
+    <Compile Include="Restaurante.cs" />
     <Compile Include="ProdutoCel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
