@@ -41,6 +41,12 @@ namespace POO
             restaurante.preco = 19.00m;
             restaurante.PedidoFeito();
 
+            Console.WriteLine("---------------------------------------");
+
+            RPG rpg = new RPG();
+            rpg.personagem = "LEON";
+            rpg.familia = "FOGO";
+            rpg.Amostragem();
 
 
             Console.ReadLine();
