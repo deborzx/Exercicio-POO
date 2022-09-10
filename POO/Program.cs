@@ -24,7 +24,7 @@ namespace Exercicio01
             Console.WriteLine("---------------------------------------");
 
             ProdutoCel produtocel = new ProdutoCel();
-            produtocel.modelo = "S20 Fe";
+            produtocel.modelo = "S20 FE";
             produtocel.marca = "SAMSUNG";
             produtocel.Venda();
 
